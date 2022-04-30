@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=e520ff&center=true&vCenter=true&width=1200&height=50&lines=Hello%2C+I'm+Stuard.;Nice+to+meet+you!)](https://git.io/typing-svg)
 ### Hi! 👋
-Hi, My name's Stuard Quiroz. And my job is to create stunning looking websites and web applications.
+My name's Stuard Quiroz. And my job is to create stunning looking websites and web applications.
 ## Stats 
 [![Stuard's github stats](https://github-readme-stats.vercel.app/api?username=Stuuard96&count_private=true&show_icons=true&bg_color=22272E&text_color=FFFFFF&title_color=e520ff&hide_border=true)](https://github.com/Stuuard96/)
 <br/><br/>
