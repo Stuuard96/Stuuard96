@@ -1,16 +1,39 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=4233F7&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+I'm+Stuard.;Nice+to+meet+you!)](https://git.io/typing-svg)
+### Hi! 👋
+Hi, My name's Stuard Quiroz. And my job is to create stunning looking websites and web applications.
+## Stats 
+[![Stuard's github stats](https://github-readme-stats.vercel.app/api?username=Stuuard96&count_private=true&show_icons=true&bg_color=22272E&text_color=FFFFFF&title_color=e520ff&hide_border=true)](https://github.com/Stuuard96/)
+<br/><br/>
+![Stuard's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Stuuard96&bg_color=22272E&text_color=FFFFFF&title_color=e520ff&show_icons=true&hide_border=true)
+## Skills 
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=22272E&labelColor=f0f0f0)](https://developer.mozilla.org/es/docs/Glossary/HTML5/)
+[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=22272E&labelColor=f0f0f0)](https://developer.mozilla.org/es/docs/Web/CSS/)
+[![](https://img.shields.io/badge/SASS-CF6B9E?style=for-the-badge&logo=sass&logoColor=22272E&labelColor=f0f0f0)](https://sass-lang.com/)
+[![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=22272E&labelColor=f0f0f0)](https://getbootstrap.com/)
+[![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=22272E&labelColor=f0f0f0)](https://jquery.com/)
+![](https://img.shields.io/badge/JavaScript-EFD948?style=for-the-badge&logo=javascript&logoColor=22272E&labelColor=f0f0f0)
+[![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=22272E&labelColor=f0f0f0)](https://angular.io/)
+[![](https://img.shields.io/badge/Firebase-F5A741?style=for-the-badge&logo=firebase&logoColor=22272E&labelColor=f0f0f0)](https://firebase.google.com/)
+[![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=22272E&labelColor=f0f0f0)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/Microsoft_SQL_Server-CC29271?style=for-the-badge&logo=microsoft-sql-server&logoColor=22272E&labelColor=f0f0f0)](https://www.microsoft.com/es-es/sql-server/sql-server-2019/)
+[![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=22272E&labelColor=f0f0f0)](https://git-scm.com/)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=22272E&labelColor=f0f0f0)](https://github.com/)
+[![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=22272E&labelColor=f0f0f0)](https://azure.microsoft.com/es-es/services/devops/)
 
-<!--
-**Stuuard96/Stuuard96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soft Skills 
+![](https://img.shields.io/badge/Decision%20making-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Problem%20solving-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Teamwork-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Communication%20skills-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/commitment-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/leadership-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/stress%20resistance-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Emotional%20intelligence-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/creativity-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/Time%20management%20and%20organization-2D333B?style=for-the-badge)
+![](https://img.shields.io/badge/People%20skills%20and%20management-2D333B?style=for-the-badge)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me on
+[![Gmail](https://img.shields.io/badge/Gmail-stuardqc@gmail.com-ED3833?style=for-the-badge&logo=gmail&logoColor=ED3833&labelColor=f0f0f0)](https://mail.google.com/mail/u/1/#inbox)
+[![Github](https://img.shields.io/badge/Github-@Stuuard96-E520FF?style=for-the-badge&logo=github&logoColor=black&labelColor=f0f0f0)](https://github.com/Stuuard96/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Stuard_Quiroz-3B5998?style=for-the-badge&logo=adafruit&logoColor=blue&labelColor=f0f0f0)](https://stuuard96.github.io/MyPortafolio/)
