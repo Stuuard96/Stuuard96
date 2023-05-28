@@ -8,11 +8,10 @@ My name's Stuard Quiroz. And my job is to create stunning looking websites and w
 ## Skills 
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=22272E&labelColor=f0f0f0)](https://developer.mozilla.org/es/docs/Glossary/HTML5/)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=22272E&labelColor=f0f0f0)](https://developer.mozilla.org/es/docs/Web/CSS/)
-[![](https://img.shields.io/badge/SASS-CF6B9E?style=for-the-badge&logo=sass&logoColor=22272E&labelColor=f0f0f0)](https://sass-lang.com/)
 [![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=22272E&labelColor=f0f0f0)](https://getbootstrap.com/)
-[![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=22272E&labelColor=f0f0f0)](https://jquery.com/)
+[![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=22272E&labelColor=f0f0f0)](https://tailwindcss.com/)
 ![](https://img.shields.io/badge/JavaScript-EFD948?style=for-the-badge&logo=javascript&logoColor=22272E&labelColor=f0f0f0)
-[![](https://img.shields.io/badge/Firebase-F5A741?style=for-the-badge&logo=firebase&logoColor=22272E&labelColor=f0f0f0)](https://firebase.google.com/)
+[![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=22272E&labelColor=f0f0f0)](https://es.reactjs.org/)
 [![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=22272E&labelColor=f0f0f0)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/Microsoft_SQL_Server-CC29271?style=for-the-badge&logo=microsoft-sql-server&logoColor=22272E&labelColor=f0f0f0)](https://www.microsoft.com/es-es/sql-server/sql-server-2019/)
 [![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=22272E&labelColor=f0f0f0)](https://git-scm.com/)
