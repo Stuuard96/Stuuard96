@@ -3,6 +3,7 @@
 ### **_Hi, I'm a web developer!_** 👋
 
 My name's Stuard Quiroz. And my job is to create stunning looking websites and web applications.
+I am proficient in the MERN technology stack.
 
 ## Stats
 
