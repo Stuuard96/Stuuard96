@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=e520ff&center=true&vCenter=true&width=1200&height=50&lines=Hello%2C+I'm+Stuard.;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-### Hi! 👋
+### **_Hi, I'm a web developer!_** 👋
 
 My name's Stuard Quiroz. And my job is to create stunning looking websites and web applications.
 
